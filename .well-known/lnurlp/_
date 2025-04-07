@@ -1,0 +1,10 @@
+{
+  "allowsNostr": true,
+  "minSendable": 1000,
+  "maxSendable": 100000000000,
+  "metadata": "[[\"text/plain\",\"Paying _@exadio.org\"],[\"text/identifier\",\"_@exadio.org\"]]",
+  "nostrPubkey": "c9badfeaadbdeccc6e226b3b6d3ff17b132cf3b29095cf117620b2ee610f861a",
+  "commentAllowed": 512,
+  "callback": "https://coinos.io/api/lnurl/af4a2137-5f13-4a40-91ab-182e1df01b27",
+  "tag": "payRequest"
+}
